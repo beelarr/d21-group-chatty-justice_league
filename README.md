@@ -1,4 +1,4 @@
-# Chatty Group Project
+# [Chatty Group Project](https://beelarr.github.io/d21-group-chatty-justice_league/)
 
 ## Setup
 
@@ -134,3 +134,6 @@ var users = {
 
 1. Put a timestamp on each message.
 1. Again, this will change the structure of your JSON file.
+
+
+## [Check it out here!!](https://beelarr.github.io/d21-group-chatty-justice_league/)
